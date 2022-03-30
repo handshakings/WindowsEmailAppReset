@@ -1,0 +1,13 @@
+D:\Upwork Projects\Windows Apps\WindowsEmailAccountMgr\WindowsEmailAccountMgr\bin\Debug\WindowsEmailAccountMgr.exe.config
+D:\Upwork Projects\Windows Apps\WindowsEmailAccountMgr\WindowsEmailAccountMgr\bin\Debug\WindowsEmailAccountMgr.exe
+D:\Upwork Projects\Windows Apps\WindowsEmailAccountMgr\WindowsEmailAccountMgr\bin\Debug\WindowsEmailAccountMgr.pdb
+D:\Upwork Projects\Windows Apps\WindowsEmailAccountMgr\WindowsEmailAccountMgr\bin\Debug\System.Management.Automation.dll
+D:\Upwork Projects\Windows Apps\WindowsEmailAccountMgr\WindowsEmailAccountMgr\obj\Debug\WindowsEmailAccountMgr.csproj.SuggestedBindingRedirects.cache
+D:\Upwork Projects\Windows Apps\WindowsEmailAccountMgr\WindowsEmailAccountMgr\obj\Debug\WindowsEmailAccountMgr.Home.resources
+D:\Upwork Projects\Windows Apps\WindowsEmailAccountMgr\WindowsEmailAccountMgr\obj\Debug\WindowsEmailAccountMgr.Properties.Resources.resources
+D:\Upwork Projects\Windows Apps\WindowsEmailAccountMgr\WindowsEmailAccountMgr\obj\Debug\WindowsEmailAccountMgr.csproj.GenerateResource.cache
+D:\Upwork Projects\Windows Apps\WindowsEmailAccountMgr\WindowsEmailAccountMgr\obj\Debug\WindowsEmailAccountMgr.csproj.CoreCompileInputs.cache
+D:\Upwork Projects\Windows Apps\WindowsEmailAccountMgr\WindowsEmailAccountMgr\obj\Debug\WindowsEmailAccountMgr.csproj.CopyComplete
+D:\Upwork Projects\Windows Apps\WindowsEmailAccountMgr\WindowsEmailAccountMgr\obj\Debug\WindowsEmailAccountMgr.exe
+D:\Upwork Projects\Windows Apps\WindowsEmailAccountMgr\WindowsEmailAccountMgr\obj\Debug\WindowsEmailAccountMgr.pdb
+D:\Upwork Projects\Windows Apps\WindowsEmailAccountMgr\WindowsEmailAccountMgr\obj\Debug\WindowsEmailAccountMgr.csproj.AssemblyReference.cache
