@@ -1,0 +1,6 @@
+To run .ps1 directly in powershell, update reg value
+"C:\Windows\System32\notepad.exe" "%1"
+ at
+Computer\HKEY_CLASSES_ROOT\Microsoft.PowerShellScript.1\Shell\Open\Command
+with
+"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" -noLogo -ExecutionPolicy unrestricted -file "%1"
