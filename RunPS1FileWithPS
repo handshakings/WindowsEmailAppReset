@@ -4,3 +4,7 @@ To run .ps1 directly in powershell, update reg value
 Computer\HKEY_CLASSES_ROOT\Microsoft.PowerShellScript.1\Shell\Open\Command
 with
 "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" -noLogo -ExecutionPolicy unrestricted -file "%1"
+
+
+Or change value Open to 0 at below reg key
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Microsoft.PowerShellScript.1\Shell
